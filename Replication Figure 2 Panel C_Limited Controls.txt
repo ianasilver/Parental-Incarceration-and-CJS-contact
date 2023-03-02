@@ -1,0 +1,1069 @@
+lavaan 0.6-12 did NOT end normally after 429 iterations
+** WARNING ** Estimates below are most likely unreliable
+
+  Estimator                                         ML
+  Optimization method                           NLMINB
+  Number of model parameters                       162
+
+  Number of observations                          7676
+  Number of missing patterns                        20
+
+
+Parameter Estimates:
+
+  Standard errors                             Standard
+  Information                                 Observed
+  Observed information based on                Hessian
+
+Latent Variables:
+                   Estimate  Std.Err  z-value  P(>|z|) ci.lower ci.upper   Std.lv  Std.all
+  Arrest_I =~                                                                             
+    NA_Age17          1.000                               1.000    1.000    0.234    0.469
+    NA_Age18          1.000                               1.000    1.000    0.234    0.439
+    NA_Age19          1.000                               1.000    1.000    0.234    0.438
+    NA_Age20          1.000                               1.000    1.000    0.234    0.291
+    NA_Age21          1.000                               1.000    1.000    0.234    0.359
+    NA_Age22          1.000                               1.000    1.000    0.234    0.466
+    NA_Age23          1.000                               1.000    1.000    0.234    0.305
+    NA_Age24          1.000                               1.000    1.000    0.234    0.610
+    NA_Age25          1.000                               1.000    1.000    0.234    0.718
+    NA_Age26          1.000                               1.000    1.000    0.234    0.731
+    NA_Age27          1.000                               1.000    1.000    0.234    0.572
+    NA_Age28          1.000                               1.000    1.000    0.234    0.817
+    NA_Age29          1.000                               1.000    1.000    0.234    0.957
+    NA_Age30          1.000                               1.000    1.000    0.234    0.527
+    NA_Age31          1.000                               1.000    1.000    0.234    0.896
+    NA_Age32          1.000                               1.000    1.000    0.234    1.005
+    NA_Age33          1.000                               1.000    1.000    0.234    1.146
+    NA_Age34          1.000                               1.000    1.000    0.234    1.249
+    NA_Age35          1.000                               1.000    1.000    0.234    1.221
+  Arrest_S1 =~                                                                            
+    NA_Age17          0.000                               0.000    0.000    0.000    0.000
+    NA_Age18          1.000                               1.000    1.000    0.017    0.033
+    NA_Age19          2.000                               2.000    2.000    0.035    0.065
+    NA_Age20          3.000                               3.000    3.000    0.052    0.065
+    NA_Age21          4.000                               4.000    4.000    0.070    0.107
+    NA_Age22          5.000                               5.000    5.000    0.087    0.173
+    NA_Age23          6.000                               6.000    6.000    0.104    0.136
+    NA_Age24          7.000                               7.000    7.000    0.122    0.317
+    NA_Age25          8.000                               8.000    8.000    0.139    0.426
+    NA_Age26          9.000                               9.000    9.000    0.156    0.489
+    NA_Age27         10.000                              10.000   10.000    0.174    0.424
+    NA_Age28         11.000                              11.000   11.000    0.191    0.667
+    NA_Age29         12.000                              12.000   12.000    0.209    0.852
+    NA_Age30         13.000                              13.000   13.000    0.226    0.509
+    NA_Age31         14.000                              14.000   14.000    0.243    0.932
+    NA_Age32         15.000                              15.000   15.000    0.261    1.120
+    NA_Age33         16.000                              16.000   16.000    0.278    1.361
+    NA_Age34         17.000                              17.000   17.000    0.295    1.576
+    NA_Age35         18.000                              18.000   18.000    0.313    1.632
+  Incar_I =~                                                                              
+    NMI_Age17         1.000                               1.000    1.000    0.609    0.739
+    NMI_Age18         1.000                               1.000    1.000    0.609    0.771
+    NMI_Age19         1.000                               1.000    1.000    0.609    0.698
+    NMI_Age20         1.000                               1.000    1.000    0.609    0.623
+    NMI_Age21         1.000                               1.000    1.000    0.609    0.582
+    NMI_Age22         1.000                               1.000    1.000    0.609    0.509
+    NMI_Age23         1.000                               1.000    1.000    0.609    0.480
+    NMI_Age24         1.000                               1.000    1.000    0.609    0.453
+    NMI_Age25         1.000                               1.000    1.000    0.609    0.446
+    NMI_Age26         1.000                               1.000    1.000    0.609    0.429
+    NMI_Age27         1.000                               1.000    1.000    0.609    0.447
+    NMI_Age28         1.000                               1.000    1.000    0.609    0.447
+    NMI_Age29         1.000                               1.000    1.000    0.609    0.435
+    NMI_Age30         1.000                               1.000    1.000    0.609    0.443
+    NMI_Age31         1.000                               1.000    1.000    0.609    0.434
+    NMI_Age32         1.000                               1.000    1.000    0.609    0.434
+    NMI_Age33         1.000                               1.000    1.000    0.609    0.420
+    NMI_Age34         1.000                               1.000    1.000    0.609    0.392
+    NMI_Age35         1.000                               1.000    1.000    0.609    0.370
+  Incar_S1 =~                                                                             
+    NMI_Age17         0.000                               0.000    0.000    0.000    0.000
+    NMI_Age18         1.000                               1.000    1.000    0.073    0.092
+    NMI_Age19         2.000                               2.000    2.000    0.145    0.166
+    NMI_Age20         3.000                               3.000    3.000    0.218    0.223
+    NMI_Age21         4.000                               4.000    4.000    0.291    0.278
+    NMI_Age22         5.000                               5.000    5.000    0.363    0.303
+    NMI_Age23         6.000                               6.000    6.000    0.436    0.343
+    NMI_Age24         7.000                               7.000    7.000    0.509    0.378
+    NMI_Age25         8.000                               8.000    8.000    0.582    0.426
+    NMI_Age26         9.000                               9.000    9.000    0.654    0.460
+    NMI_Age27        10.000                              10.000   10.000    0.727    0.533
+    NMI_Age28        11.000                              11.000   11.000    0.800    0.587
+    NMI_Age29        12.000                              12.000   12.000    0.872    0.623
+    NMI_Age30        13.000                              13.000   13.000    0.945    0.687
+    NMI_Age31        14.000                              14.000   14.000    1.018    0.725
+    NMI_Age32        15.000                              15.000   15.000    1.090    0.777
+    NMI_Age33        16.000                              16.000   16.000    1.163    0.802
+    NMI_Age34        17.000                              17.000   17.000    1.236    0.795
+    NMI_Age35        18.000                              18.000   18.000    1.308    0.795
+
+Regressions:
+                   Estimate  Std.Err  z-value  P(>|z|) ci.lower ci.upper   Std.lv  Std.all
+  Arrest_I ~                                                                              
+    MATIB16           0.052       NA                         NA       NA    0.222    0.022
+    Hispanic         -0.003       NA                         NA       NA   -0.015   -0.006
+    White            -0.009       NA                         NA       NA   -0.039   -0.019
+    Black             0.025       NA                         NA       NA    0.109    0.049
+    AIndian           0.030       NA                         NA       NA    0.127    0.010
+    Asian            -0.060       NA                         NA       NA   -0.257   -0.033
+    Male              0.108       NA                         NA       NA    0.459    0.230
+    Sample            0.008       NA                         NA       NA    0.035    0.015
+  Incar_I ~                                                                               
+    MATIB16           0.120       NA                         NA       NA    0.197    0.020
+    Hispanic          0.026       NA                         NA       NA    0.042    0.017
+    White             0.005       NA                         NA       NA    0.009    0.004
+    Black             0.134       NA                         NA       NA    0.221    0.099
+    AIndian          -0.007       NA                         NA       NA   -0.012   -0.001
+    Asian            -0.005       NA                         NA       NA   -0.009   -0.001
+    Male              0.153       NA                         NA       NA    0.251    0.125
+    Sample           -0.006       NA                         NA       NA   -0.009   -0.004
+  Arrest_S1 ~                                                                             
+    MATIB16           0.005       NA                         NA       NA    0.260    0.026
+    Hispanic         -0.000       NA                         NA       NA   -0.004   -0.002
+    White             0.000       NA                         NA       NA    0.015    0.007
+    Black            -0.002       NA                         NA       NA   -0.108   -0.048
+    AIndian          -0.003       NA                         NA       NA   -0.173   -0.014
+    Asian             0.002       NA                         NA       NA    0.137    0.018
+    Male             -0.006       NA                         NA       NA   -0.343   -0.172
+    Sample           -0.000       NA                         NA       NA   -0.010   -0.005
+  Incar_S1 ~                                                                              
+    MATIB16          -0.011       NA                         NA       NA   -0.151   -0.015
+    Hispanic         -0.002       NA                         NA       NA   -0.032   -0.013
+    White             0.001       NA                         NA       NA    0.020    0.010
+    Black             0.009       NA                         NA       NA    0.125    0.056
+    AIndian          -0.001       NA                         NA       NA   -0.012   -0.001
+    Asian            -0.006       NA                         NA       NA   -0.084   -0.011
+    Male              0.012       NA                         NA       NA    0.159    0.079
+    Sample            0.007       NA                         NA       NA    0.099    0.043
+
+Covariances:
+                   Estimate  Std.Err  z-value  P(>|z|) ci.lower ci.upper   Std.lv  Std.all
+ .Arrest_I ~~                                                                             
+   .Arrest_S1        -0.003       NA                         NA       NA   -0.885   -0.885
+   .Incar_I           0.037       NA                         NA       NA    0.272    0.272
+   .Incar_S1          0.003       NA                         NA       NA    0.209    0.209
+ .Arrest_S1 ~~                                                                            
+   .Incar_I          -0.002       NA                         NA       NA   -0.237   -0.237
+   .Incar_S1         -0.000       NA                         NA       NA   -0.099   -0.099
+ .Incar_I ~~                                                                              
+   .Incar_S1         -0.009       NA                         NA       NA   -0.216   -0.216
+  MATIB16 ~~                                                                              
+    Hispanic         -0.000       NA                         NA       NA   -0.000   -0.009
+    White            -0.003       NA                         NA       NA   -0.003   -0.055
+    Black             0.003       NA                         NA       NA    0.003    0.069
+    AIndian           0.000       NA                         NA       NA    0.000    0.008
+    Asian            -0.000       NA                         NA       NA   -0.000   -0.013
+    Male             -0.002       NA                         NA       NA   -0.002   -0.031
+    Sample            0.002       NA                         NA       NA    0.002    0.048
+  Hispanic ~~                                                                             
+    White            -0.029       NA                         NA       NA   -0.029   -0.144
+    Black            -0.053       NA                         NA       NA   -0.053   -0.286
+    AIndian           0.001       NA                         NA       NA    0.001    0.018
+    Asian            -0.003       NA                         NA       NA   -0.003   -0.057
+    Male             -0.000       NA                         NA       NA   -0.000   -0.002
+    Sample            0.056       NA                         NA       NA    0.056    0.313
+  White ~~                                                                                
+    Black            -0.161       NA                         NA       NA   -0.161   -0.725
+    AIndian          -0.004       NA                         NA       NA   -0.004   -0.095
+    Asian            -0.010       NA                         NA       NA   -0.010   -0.152
+    Male              0.003       NA                         NA       NA    0.003    0.012
+    Sample           -0.100       NA                         NA       NA   -0.100   -0.463
+  Black ~~                                                                                
+    AIndian          -0.002       NA                         NA       NA   -0.002   -0.051
+    Asian            -0.005       NA                         NA       NA   -0.005   -0.081
+    Male             -0.003       NA                         NA       NA   -0.003   -0.015
+    Sample            0.079       NA                         NA       NA    0.079    0.401
+  AIndian ~~                                                                              
+    Asian            -0.000       NA                         NA       NA   -0.000   -0.011
+    Male             -0.001       NA                         NA       NA   -0.001   -0.013
+    Sample           -0.001       NA                         NA       NA   -0.001   -0.025
+  Asian ~~                                                                                
+    Male              0.001       NA                         NA       NA    0.001    0.021
+    Sample           -0.004       NA                         NA       NA   -0.004   -0.072
+  Male ~~                                                                                 
+    Sample           -0.002       NA                         NA       NA   -0.002   -0.008
+
+Intercepts:
+                   Estimate  Std.Err  z-value  P(>|z|) ci.lower ci.upper   Std.lv  Std.all
+   .NA_Age17          0.032       NA                         NA       NA    0.032    0.064
+   .NA_Age18          0.040       NA                         NA       NA    0.040    0.075
+   .NA_Age19          0.039       NA                         NA       NA    0.039    0.073
+   .NA_Age20          0.038       NA                         NA       NA    0.038    0.047
+   .NA_Age21          0.032       NA                         NA       NA    0.032    0.049
+   .NA_Age22          0.027       NA                         NA       NA    0.027    0.054
+   .NA_Age23          0.022       NA                         NA       NA    0.022    0.029
+   .NA_Age24          0.017       NA                         NA       NA    0.017    0.044
+   .NA_Age25          0.015       NA                         NA       NA    0.015    0.045
+   .NA_Age26          0.011       NA                         NA       NA    0.011    0.036
+   .NA_Age27          0.017       NA                         NA       NA    0.017    0.041
+   .NA_Age28          0.012       NA                         NA       NA    0.012    0.043
+   .NA_Age29          0.011       NA                         NA       NA    0.011    0.046
+   .NA_Age30          0.014       NA                         NA       NA    0.014    0.031
+   .NA_Age31          0.010       NA                         NA       NA    0.010    0.037
+   .NA_Age32          0.012       NA                         NA       NA    0.012    0.052
+   .NA_Age33          0.013       NA                         NA       NA    0.013    0.062
+   .NA_Age34          0.011       NA                         NA       NA    0.011    0.057
+   .NA_Age35          0.012       NA                         NA       NA    0.012    0.062
+   .NMI_Age17        -0.080       NA                         NA       NA   -0.080   -0.097
+   .NMI_Age18        -0.055       NA                         NA       NA   -0.055   -0.069
+   .NMI_Age19        -0.051       NA                         NA       NA   -0.051   -0.058
+   .NMI_Age20        -0.048       NA                         NA       NA   -0.048   -0.049
+   .NMI_Age21        -0.051       NA                         NA       NA   -0.051   -0.049
+   .NMI_Age22        -0.028       NA                         NA       NA   -0.028   -0.023
+   .NMI_Age23        -0.026       NA                         NA       NA   -0.026   -0.020
+   .NMI_Age24        -0.029       NA                         NA       NA   -0.029   -0.021
+   .NMI_Age25        -0.043       NA                         NA       NA   -0.043   -0.032
+   .NMI_Age26        -0.046       NA                         NA       NA   -0.046   -0.032
+   .NMI_Age27        -0.083       NA                         NA       NA   -0.083   -0.061
+   .NMI_Age28        -0.106       NA                         NA       NA   -0.106   -0.078
+   .NMI_Age29        -0.106       NA                         NA       NA   -0.106   -0.076
+   .NMI_Age30        -0.129       NA                         NA       NA   -0.129   -0.094
+   .NMI_Age31        -0.152       NA                         NA       NA   -0.152   -0.108
+   .NMI_Age32        -0.194       NA                         NA       NA   -0.194   -0.138
+   .NMI_Age33        -0.225       NA                         NA       NA   -0.225   -0.155
+   .NMI_Age34        -0.261       NA                         NA       NA   -0.261   -0.168
+   .NMI_Age35        -0.284       NA                         NA       NA   -0.284   -0.173
+    MATIB16           0.010       NA                         NA       NA    0.010    0.101
+    Hispanic          0.214       NA                         NA       NA    0.214    0.522
+    White             0.577       NA                         NA       NA    0.577    1.169
+    Black             0.276       NA                         NA       NA    0.276    0.616
+    AIndian           0.007       NA                         NA       NA    0.007    0.082
+    Asian             0.017       NA                         NA       NA    0.017    0.130
+    Male              0.501       NA                         NA       NA    0.501    1.002
+    Sample            1.257       NA                         NA       NA    1.257    2.877
+   .Arrest_I          0.000                               0.000    0.000    0.000    0.000
+   .Arrest_S1         0.000                               0.000    0.000    0.000    0.000
+   .Incar_I           0.000                               0.000    0.000    0.000    0.000
+   .Incar_S1          0.000                               0.000    0.000    0.000    0.000
+
+Variances:
+                   Estimate  Std.Err  z-value  P(>|z|) ci.lower ci.upper   Std.lv  Std.all
+   .NA_Age17          0.195       NA                         NA       NA    0.195    0.780
+   .NA_Age18          0.236       NA                         NA       NA    0.236    0.831
+   .NA_Age19          0.244       NA                         NA       NA    0.244    0.854
+   .NA_Age20          0.611       NA                         NA       NA    0.611    0.945
+   .NA_Age21          0.394       NA                         NA       NA    0.394    0.928
+   .NA_Age22          0.227       NA                         NA       NA    0.227    0.896
+   .NA_Age23          0.568       NA                         NA       NA    0.568    0.962
+   .NA_Age24          0.128       NA                         NA       NA    0.128    0.871
+   .NA_Age25          0.090       NA                         NA       NA    0.090    0.846
+   .NA_Age26          0.088       NA                         NA       NA    0.088    0.861
+   .NA_Age27          0.155       NA                         NA       NA    0.155    0.924
+   .NA_Age28          0.070       NA                         NA       NA    0.070    0.855
+   .NA_Age29          0.048       NA                         NA       NA    0.048    0.806
+   .NA_Age30          0.185       NA                         NA       NA    0.185    0.939
+   .NA_Age31          0.055       NA                         NA       NA    0.055    0.811
+   .NA_Age32          0.040       NA                         NA       NA    0.040    0.734
+   .NA_Age33          0.025       NA                         NA       NA    0.025    0.603
+   .NA_Age34          0.016       NA                         NA       NA    0.016    0.450
+   .NA_Age35          0.014       NA                         NA       NA    0.014    0.383
+   .NMI_Age17         0.308       NA                         NA       NA    0.308    0.453
+   .NMI_Age18         0.266       NA                         NA       NA    0.266    0.425
+   .NMI_Age19         0.405       NA                         NA       NA    0.405    0.531
+   .NMI_Age20         0.590       NA                         NA       NA    0.590    0.617
+   .NMI_Age21         0.711       NA                         NA       NA    0.711    0.648
+   .NMI_Age22         1.018       NA                         NA       NA    1.018    0.710
+   .NMI_Age23         1.155       NA                         NA       NA    1.155    0.716
+   .NMI_Age24         1.300       NA                         NA       NA    1.300    0.719
+   .NMI_Age25         1.295       NA                         NA       NA    1.295    0.694
+   .NMI_Age26         1.377       NA                         NA       NA    1.377    0.682
+   .NMI_Age27         1.136       NA                         NA       NA    1.136    0.610
+   .NMI_Age28         1.038       NA                         NA       NA    1.038    0.559
+   .NMI_Age29         1.036       NA                         NA       NA    1.036    0.529
+   .NMI_Age30         0.853       NA                         NA       NA    0.853    0.451
+   .NMI_Age31         0.807       NA                         NA       NA    0.807    0.410
+   .NMI_Age32         0.669       NA                         NA       NA    0.669    0.340
+   .NMI_Age33         0.657       NA                         NA       NA    0.657    0.312
+   .NMI_Age34         0.813       NA                         NA       NA    0.813    0.337
+   .NMI_Age35         0.938       NA                         NA       NA    0.938    0.346
+   .Arrest_I          0.052       NA                         NA       NA    0.941    0.941
+   .Arrest_S1         0.000       NA                         NA       NA    0.967    0.967
+   .Incar_I           0.363       NA                         NA       NA    0.976    0.976
+   .Incar_S1          0.005       NA                         NA       NA    0.987    0.987
+    MATIB16           0.010       NA                         NA       NA    0.010    1.000
+    Hispanic          0.168       NA                         NA       NA    0.168    1.000
+    White             0.244       NA                         NA       NA    0.244    1.000
+    Black             0.201       NA                         NA       NA    0.201    1.000
+    AIndian           0.007       NA                         NA       NA    0.007    1.000
+    Asian             0.016       NA                         NA       NA    0.016    1.000
+    Male              0.250       NA                         NA       NA    0.250    1.000
+    Sample            0.191       NA                         NA       NA    0.191    1.000
+
+R-Square:
+                   Estimate
+    NA_Age17          0.220
+    NA_Age18          0.169
+    NA_Age19          0.146
+    NA_Age20          0.055
+    NA_Age21          0.072
+    NA_Age22          0.104
+    NA_Age23          0.038
+    NA_Age24          0.129
+    NA_Age25          0.154
+    NA_Age26          0.139
+    NA_Age27          0.076
+    NA_Age28          0.145
+    NA_Age29          0.194
+    NA_Age30          0.061
+    NA_Age31          0.189
+    NA_Age32          0.266
+    NA_Age33          0.397
+    NA_Age34          0.550
+    NA_Age35          0.617
+    NMI_Age17         0.547
+    NMI_Age18         0.575
+    NMI_Age19         0.469
+    NMI_Age20         0.383
+    NMI_Age21         0.352
+    NMI_Age22         0.290
+    NMI_Age23         0.284
+    NMI_Age24         0.281
+    NMI_Age25         0.306
+    NMI_Age26         0.318
+    NMI_Age27         0.390
+    NMI_Age28         0.441
+    NMI_Age29         0.471
+    NMI_Age30         0.549
+    NMI_Age31         0.590
+    NMI_Age32         0.660
+    NMI_Age33         0.688
+    NMI_Age34         0.663
+    NMI_Age35         0.654
+    Arrest_I          0.059
+    Arrest_S1         0.033
+    Incar_I           0.024
+    Incar_S1          0.013
+
+     id       lhs op       rhs user block group free ustart exo label plabel  start    est se
+1     1  Arrest_I =~  NA_Age17    1     1     1    0      1   0         .p1.  1.000  1.000  0
+2     2  Arrest_I =~  NA_Age18    1     1     1    0      1   0         .p2.  1.000  1.000  0
+3     3  Arrest_I =~  NA_Age19    1     1     1    0      1   0         .p3.  1.000  1.000  0
+4     4  Arrest_I =~  NA_Age20    1     1     1    0      1   0         .p4.  1.000  1.000  0
+5     5  Arrest_I =~  NA_Age21    1     1     1    0      1   0         .p5.  1.000  1.000  0
+6     6  Arrest_I =~  NA_Age22    1     1     1    0      1   0         .p6.  1.000  1.000  0
+7     7  Arrest_I =~  NA_Age23    1     1     1    0      1   0         .p7.  1.000  1.000  0
+8     8  Arrest_I =~  NA_Age24    1     1     1    0      1   0         .p8.  1.000  1.000  0
+9     9  Arrest_I =~  NA_Age25    1     1     1    0      1   0         .p9.  1.000  1.000  0
+10   10  Arrest_I =~  NA_Age26    1     1     1    0      1   0        .p10.  1.000  1.000  0
+11   11  Arrest_I =~  NA_Age27    1     1     1    0      1   0        .p11.  1.000  1.000  0
+12   12  Arrest_I =~  NA_Age28    1     1     1    0      1   0        .p12.  1.000  1.000  0
+13   13  Arrest_I =~  NA_Age29    1     1     1    0      1   0        .p13.  1.000  1.000  0
+14   14  Arrest_I =~  NA_Age30    1     1     1    0      1   0        .p14.  1.000  1.000  0
+15   15  Arrest_I =~  NA_Age31    1     1     1    0      1   0        .p15.  1.000  1.000  0
+16   16  Arrest_I =~  NA_Age32    1     1     1    0      1   0        .p16.  1.000  1.000  0
+17   17  Arrest_I =~  NA_Age33    1     1     1    0      1   0        .p17.  1.000  1.000  0
+18   18  Arrest_I =~  NA_Age34    1     1     1    0      1   0        .p18.  1.000  1.000  0
+19   19  Arrest_I =~  NA_Age35    1     1     1    0      1   0        .p19.  1.000  1.000  0
+20   20 Arrest_S1 =~  NA_Age17    1     1     1    0      0   0        .p20.  0.000  0.000  0
+21   21 Arrest_S1 =~  NA_Age18    1     1     1    0      1   0        .p21.  1.000  1.000  0
+22   22 Arrest_S1 =~  NA_Age19    1     1     1    0      2   0        .p22.  2.000  2.000  0
+23   23 Arrest_S1 =~  NA_Age20    1     1     1    0      3   0        .p23.  3.000  3.000  0
+24   24 Arrest_S1 =~  NA_Age21    1     1     1    0      4   0        .p24.  4.000  4.000  0
+25   25 Arrest_S1 =~  NA_Age22    1     1     1    0      5   0        .p25.  5.000  5.000  0
+26   26 Arrest_S1 =~  NA_Age23    1     1     1    0      6   0        .p26.  6.000  6.000  0
+27   27 Arrest_S1 =~  NA_Age24    1     1     1    0      7   0        .p27.  7.000  7.000  0
+28   28 Arrest_S1 =~  NA_Age25    1     1     1    0      8   0        .p28.  8.000  8.000  0
+29   29 Arrest_S1 =~  NA_Age26    1     1     1    0      9   0        .p29.  9.000  9.000  0
+30   30 Arrest_S1 =~  NA_Age27    1     1     1    0     10   0        .p30. 10.000 10.000  0
+31   31 Arrest_S1 =~  NA_Age28    1     1     1    0     11   0        .p31. 11.000 11.000  0
+32   32 Arrest_S1 =~  NA_Age29    1     1     1    0     12   0        .p32. 12.000 12.000  0
+33   33 Arrest_S1 =~  NA_Age30    1     1     1    0     13   0        .p33. 13.000 13.000  0
+34   34 Arrest_S1 =~  NA_Age31    1     1     1    0     14   0        .p34. 14.000 14.000  0
+35   35 Arrest_S1 =~  NA_Age32    1     1     1    0     15   0        .p35. 15.000 15.000  0
+36   36 Arrest_S1 =~  NA_Age33    1     1     1    0     16   0        .p36. 16.000 16.000  0
+37   37 Arrest_S1 =~  NA_Age34    1     1     1    0     17   0        .p37. 17.000 17.000  0
+38   38 Arrest_S1 =~  NA_Age35    1     1     1    0     18   0        .p38. 18.000 18.000  0
+39   39   Incar_I =~ NMI_Age17    1     1     1    0      1   0        .p39.  1.000  1.000  0
+40   40   Incar_I =~ NMI_Age18    1     1     1    0      1   0        .p40.  1.000  1.000  0
+41   41   Incar_I =~ NMI_Age19    1     1     1    0      1   0        .p41.  1.000  1.000  0
+42   42   Incar_I =~ NMI_Age20    1     1     1    0      1   0        .p42.  1.000  1.000  0
+43   43   Incar_I =~ NMI_Age21    1     1     1    0      1   0        .p43.  1.000  1.000  0
+44   44   Incar_I =~ NMI_Age22    1     1     1    0      1   0        .p44.  1.000  1.000  0
+45   45   Incar_I =~ NMI_Age23    1     1     1    0      1   0        .p45.  1.000  1.000  0
+46   46   Incar_I =~ NMI_Age24    1     1     1    0      1   0        .p46.  1.000  1.000  0
+47   47   Incar_I =~ NMI_Age25    1     1     1    0      1   0        .p47.  1.000  1.000  0
+48   48   Incar_I =~ NMI_Age26    1     1     1    0      1   0        .p48.  1.000  1.000  0
+49   49   Incar_I =~ NMI_Age27    1     1     1    0      1   0        .p49.  1.000  1.000  0
+50   50   Incar_I =~ NMI_Age28    1     1     1    0      1   0        .p50.  1.000  1.000  0
+51   51   Incar_I =~ NMI_Age29    1     1     1    0      1   0        .p51.  1.000  1.000  0
+52   52   Incar_I =~ NMI_Age30    1     1     1    0      1   0        .p52.  1.000  1.000  0
+53   53   Incar_I =~ NMI_Age31    1     1     1    0      1   0        .p53.  1.000  1.000  0
+54   54   Incar_I =~ NMI_Age32    1     1     1    0      1   0        .p54.  1.000  1.000  0
+55   55   Incar_I =~ NMI_Age33    1     1     1    0      1   0        .p55.  1.000  1.000  0
+56   56   Incar_I =~ NMI_Age34    1     1     1    0      1   0        .p56.  1.000  1.000  0
+57   57   Incar_I =~ NMI_Age35    1     1     1    0      1   0        .p57.  1.000  1.000  0
+58   58  Incar_S1 =~ NMI_Age17    1     1     1    0      0   0        .p58.  0.000  0.000  0
+59   59  Incar_S1 =~ NMI_Age18    1     1     1    0      1   0        .p59.  1.000  1.000  0
+60   60  Incar_S1 =~ NMI_Age19    1     1     1    0      2   0        .p60.  2.000  2.000  0
+61   61  Incar_S1 =~ NMI_Age20    1     1     1    0      3   0        .p61.  3.000  3.000  0
+62   62  Incar_S1 =~ NMI_Age21    1     1     1    0      4   0        .p62.  4.000  4.000  0
+63   63  Incar_S1 =~ NMI_Age22    1     1     1    0      5   0        .p63.  5.000  5.000  0
+64   64  Incar_S1 =~ NMI_Age23    1     1     1    0      6   0        .p64.  6.000  6.000  0
+65   65  Incar_S1 =~ NMI_Age24    1     1     1    0      7   0        .p65.  7.000  7.000  0
+66   66  Incar_S1 =~ NMI_Age25    1     1     1    0      8   0        .p66.  8.000  8.000  0
+67   67  Incar_S1 =~ NMI_Age26    1     1     1    0      9   0        .p67.  9.000  9.000  0
+68   68  Incar_S1 =~ NMI_Age27    1     1     1    0     10   0        .p68. 10.000 10.000  0
+69   69  Incar_S1 =~ NMI_Age28    1     1     1    0     11   0        .p69. 11.000 11.000  0
+70   70  Incar_S1 =~ NMI_Age29    1     1     1    0     12   0        .p70. 12.000 12.000  0
+71   71  Incar_S1 =~ NMI_Age30    1     1     1    0     13   0        .p71. 13.000 13.000  0
+72   72  Incar_S1 =~ NMI_Age31    1     1     1    0     14   0        .p72. 14.000 14.000  0
+73   73  Incar_S1 =~ NMI_Age32    1     1     1    0     15   0        .p73. 15.000 15.000  0
+74   74  Incar_S1 =~ NMI_Age33    1     1     1    0     16   0        .p74. 16.000 16.000  0
+75   75  Incar_S1 =~ NMI_Age34    1     1     1    0     17   0        .p75. 17.000 17.000  0
+76   76  Incar_S1 =~ NMI_Age35    1     1     1    0     18   0        .p76. 18.000 18.000  0
+77   77  Arrest_I  ~   MATIB16    1     1     1    1     NA   0        .p77.  0.000  0.052 NA
+78   78  Arrest_I  ~  Hispanic    1     1     1    2     NA   0        .p78.  0.000 -0.003 NA
+79   79  Arrest_I  ~     White    1     1     1    3     NA   0        .p79.  0.000 -0.009 NA
+80   80  Arrest_I  ~     Black    1     1     1    4     NA   0        .p80.  0.000  0.025 NA
+81   81  Arrest_I  ~   AIndian    1     1     1    5     NA   0        .p81.  0.000  0.030 NA
+82   82  Arrest_I  ~     Asian    1     1     1    6     NA   0        .p82.  0.000 -0.060 NA
+83   83  Arrest_I  ~      Male    1     1     1    7     NA   0        .p83.  0.000  0.108 NA
+84   84  Arrest_I  ~    Sample    1     1     1    8     NA   0        .p84.  0.000  0.008 NA
+85   85   Incar_I  ~   MATIB16    1     1     1    9     NA   0        .p85.  0.000  0.120 NA
+86   86   Incar_I  ~  Hispanic    1     1     1   10     NA   0        .p86.  0.000  0.026 NA
+87   87   Incar_I  ~     White    1     1     1   11     NA   0        .p87.  0.000  0.005 NA
+88   88   Incar_I  ~     Black    1     1     1   12     NA   0        .p88.  0.000  0.134 NA
+89   89   Incar_I  ~   AIndian    1     1     1   13     NA   0        .p89.  0.000 -0.007 NA
+90   90   Incar_I  ~     Asian    1     1     1   14     NA   0        .p90.  0.000 -0.005 NA
+91   91   Incar_I  ~      Male    1     1     1   15     NA   0        .p91.  0.000  0.153 NA
+92   92   Incar_I  ~    Sample    1     1     1   16     NA   0        .p92.  0.000 -0.006 NA
+93   93 Arrest_S1  ~   MATIB16    1     1     1   17     NA   0        .p93.  0.000  0.005 NA
+94   94 Arrest_S1  ~  Hispanic    1     1     1   18     NA   0        .p94.  0.000  0.000 NA
+95   95 Arrest_S1  ~     White    1     1     1   19     NA   0        .p95.  0.000  0.000 NA
+96   96 Arrest_S1  ~     Black    1     1     1   20     NA   0        .p96.  0.000 -0.002 NA
+97   97 Arrest_S1  ~   AIndian    1     1     1   21     NA   0        .p97.  0.000 -0.003 NA
+98   98 Arrest_S1  ~     Asian    1     1     1   22     NA   0        .p98.  0.000  0.002 NA
+99   99 Arrest_S1  ~      Male    1     1     1   23     NA   0        .p99.  0.000 -0.006 NA
+100 100 Arrest_S1  ~    Sample    1     1     1   24     NA   0       .p100.  0.000  0.000 NA
+101 101  Incar_S1  ~   MATIB16    1     1     1   25     NA   0       .p101.  0.000 -0.011 NA
+102 102  Incar_S1  ~  Hispanic    1     1     1   26     NA   0       .p102.  0.000 -0.002 NA
+103 103  Incar_S1  ~     White    1     1     1   27     NA   0       .p103.  0.000  0.001 NA
+104 104  Incar_S1  ~     Black    1     1     1   28     NA   0       .p104.  0.000  0.009 NA
+105 105  Incar_S1  ~   AIndian    1     1     1   29     NA   0       .p105.  0.000 -0.001 NA
+106 106  Incar_S1  ~     Asian    1     1     1   30     NA   0       .p106.  0.000 -0.006 NA
+107 107  Incar_S1  ~      Male    1     1     1   31     NA   0       .p107.  0.000  0.012 NA
+108 108  Incar_S1  ~    Sample    1     1     1   32     NA   0       .p108.  0.000  0.007 NA
+109 109  NA_Age17 ~~  NA_Age17    0     1     1   33     NA   0       .p109.  0.116  0.195 NA
+110 110  NA_Age18 ~~  NA_Age18    0     1     1   34     NA   0       .p110.  0.148  0.236 NA
+111 111  NA_Age19 ~~  NA_Age19    0     1     1   35     NA   0       .p111.  0.149  0.244 NA
+112 112  NA_Age20 ~~  NA_Age20    0     1     1   36     NA   0       .p112.  0.327  0.611 NA
+113 113  NA_Age21 ~~  NA_Age21    0     1     1   37     NA   0       .p113.  0.220  0.394 NA
+114 114  NA_Age22 ~~  NA_Age22    0     1     1   38     NA   0       .p114.  0.129  0.227 NA
+115 115  NA_Age23 ~~  NA_Age23    0     1     1   39     NA   0       .p115.  0.293  0.568 NA
+116 116  NA_Age24 ~~  NA_Age24    0     1     1   40     NA   0       .p116.  0.071  0.128 NA
+117 117  NA_Age25 ~~  NA_Age25    0     1     1   41     NA   0       .p117.  0.052  0.090 NA
+118 118  NA_Age26 ~~  NA_Age26    0     1     1   42     NA   0       .p118.  0.050  0.088 NA
+119 119  NA_Age27 ~~  NA_Age27    0     1     1   43     NA   0       .p119.  0.085  0.155 NA
+120 120  NA_Age28 ~~  NA_Age28    0     1     1   44     NA   0       .p120.  0.040  0.070 NA
+121 121  NA_Age29 ~~  NA_Age29    0     1     1   45     NA   0       .p121.  0.027  0.048 NA
+122 122  NA_Age30 ~~  NA_Age30    0     1     1   46     NA   0       .p122.  0.101  0.185 NA
+123 123  NA_Age31 ~~  NA_Age31    0     1     1   47     NA   0       .p123.  0.033  0.055 NA
+124 124  NA_Age32 ~~  NA_Age32    0     1     1   48     NA   0       .p124.  0.030  0.040 NA
+125 125  NA_Age33 ~~  NA_Age33    0     1     1   49     NA   0       .p125.  0.021  0.025 NA
+126 126  NA_Age34 ~~  NA_Age34    0     1     1   50     NA   0       .p126.  0.018  0.016 NA
+127 127  NA_Age35 ~~  NA_Age35    0     1     1   51     NA   0       .p127.  0.018  0.014 NA
+128 128 NMI_Age17 ~~ NMI_Age17    0     1     1   52     NA   0       .p128.  0.133  0.308 NA
+129 129 NMI_Age18 ~~ NMI_Age18    0     1     1   53     NA   0       .p129.  0.304  0.266 NA
+130 130 NMI_Age19 ~~ NMI_Age19    0     1     1   54     NA   0       .p130.  0.441  0.405 NA
+131 131 NMI_Age20 ~~ NMI_Age20    0     1     1   55     NA   0       .p131.  0.558  0.590 NA
+132 132 NMI_Age21 ~~ NMI_Age21    0     1     1   56     NA   0       .p132.  0.627  0.711 NA
+133 133 NMI_Age22 ~~ NMI_Age22    0     1     1   57     NA   0       .p133.  0.837  1.018 NA
+134 134 NMI_Age23 ~~ NMI_Age23    0     1     1   58     NA   0       .p134.  0.954  1.155 NA
+135 135 NMI_Age24 ~~ NMI_Age24    0     1     1   59     NA   0       .p135.  1.046  1.300 NA
+136 136 NMI_Age25 ~~ NMI_Age25    0     1     1   60     NA   0       .p136.  1.049  1.295 NA
+137 137 NMI_Age26 ~~ NMI_Age26    0     1     1   61     NA   0       .p137.  1.155  1.377 NA
+138 138 NMI_Age27 ~~ NMI_Age27    0     1     1   62     NA   0       .p138.  1.042  1.136 NA
+139 139 NMI_Age28 ~~ NMI_Age28    0     1     1   63     NA   0       .p139.  1.020  1.038 NA
+140 140 NMI_Age29 ~~ NMI_Age29    0     1     1   64     NA   0       .p140.  1.081  1.036 NA
+141 141 NMI_Age30 ~~ NMI_Age30    0     1     1   65     NA   0       .p141.  1.071  0.853 NA
+142 142 NMI_Age31 ~~ NMI_Age31    0     1     1   66     NA   0       .p142.  1.093  0.807 NA
+143 143 NMI_Age32 ~~ NMI_Age32    0     1     1   67     NA   0       .p143.  0.940  0.669 NA
+144 144 NMI_Age33 ~~ NMI_Age33    0     1     1   68     NA   0       .p144.  0.871  0.657 NA
+145 145 NMI_Age34 ~~ NMI_Age34    0     1     1   69     NA   0       .p145.  0.847  0.813 NA
+146 146 NMI_Age35 ~~ NMI_Age35    0     1     1   70     NA   0       .p146.  0.800  0.938 NA
+147 147  Arrest_I ~~  Arrest_I    0     1     1   71     NA   0       .p147.  0.050  0.052 NA
+148 148 Arrest_S1 ~~ Arrest_S1    0     1     1   72     NA   0       .p148.  0.050  0.000 NA
+149 149   Incar_I ~~   Incar_I    0     1     1   73     NA   0       .p149.  0.050  0.363 NA
+150 150  Incar_S1 ~~  Incar_S1    0     1     1   74     NA   0       .p150.  0.050  0.005 NA
+151 151  Arrest_I ~~ Arrest_S1    0     1     1   75     NA   0       .p151.  0.000 -0.003 NA
+152 152  Arrest_I ~~   Incar_I    0     1     1   76     NA   0       .p152.  0.000  0.037 NA
+153 153  Arrest_I ~~  Incar_S1    0     1     1   77     NA   0       .p153.  0.000  0.003 NA
+154 154 Arrest_S1 ~~   Incar_I    0     1     1   78     NA   0       .p154.  0.000 -0.002 NA
+155 155 Arrest_S1 ~~  Incar_S1    0     1     1   79     NA   0       .p155.  0.000  0.000 NA
+156 156   Incar_I ~~  Incar_S1    0     1     1   80     NA   0       .p156.  0.000 -0.009 NA
+157 157   MATIB16 ~~   MATIB16    0     1     1   81     NA   0       .p157.  0.010  0.010 NA
+158 158   MATIB16 ~~  Hispanic    0     1     1   82     NA   0       .p158.  0.000  0.000 NA
+159 159   MATIB16 ~~     White    0     1     1   83     NA   0       .p159. -0.003 -0.003 NA
+160 160   MATIB16 ~~     Black    0     1     1   84     NA   0       .p160.  0.003  0.003 NA
+161 161   MATIB16 ~~   AIndian    0     1     1   85     NA   0       .p161.  0.000  0.000 NA
+162 162   MATIB16 ~~     Asian    0     1     1   86     NA   0       .p162.  0.000  0.000 NA
+163 163   MATIB16 ~~      Male    0     1     1   87     NA   0       .p163. -0.002 -0.002 NA
+164 164   MATIB16 ~~    Sample    0     1     1   88     NA   0       .p164.  0.002  0.002 NA
+165 165  Hispanic ~~  Hispanic    0     1     1   89     NA   0       .p165.  0.168  0.168 NA
+166 166  Hispanic ~~     White    0     1     1   90     NA   0       .p166. -0.029 -0.029 NA
+167 167  Hispanic ~~     Black    0     1     1   91     NA   0       .p167. -0.053 -0.053 NA
+168 168  Hispanic ~~   AIndian    0     1     1   92     NA   0       .p168.  0.001  0.001 NA
+169 169  Hispanic ~~     Asian    0     1     1   93     NA   0       .p169. -0.003 -0.003 NA
+170 170  Hispanic ~~      Male    0     1     1   94     NA   0       .p170.  0.000  0.000 NA
+171 171  Hispanic ~~    Sample    0     1     1   95     NA   0       .p171.  0.056  0.056 NA
+172 172     White ~~     White    0     1     1   96     NA   0       .p172.  0.244  0.244 NA
+173 173     White ~~     Black    0     1     1   97     NA   0       .p173. -0.161 -0.161 NA
+174 174     White ~~   AIndian    0     1     1   98     NA   0       .p174. -0.004 -0.004 NA
+175 175     White ~~     Asian    0     1     1   99     NA   0       .p175. -0.010 -0.010 NA
+176 176     White ~~      Male    0     1     1  100     NA   0       .p176.  0.003  0.003 NA
+177 177     White ~~    Sample    0     1     1  101     NA   0       .p177. -0.100 -0.100 NA
+178 178     Black ~~     Black    0     1     1  102     NA   0       .p178.  0.201  0.201 NA
+179 179     Black ~~   AIndian    0     1     1  103     NA   0       .p179. -0.002 -0.002 NA
+180 180     Black ~~     Asian    0     1     1  104     NA   0       .p180. -0.005 -0.005 NA
+181 181     Black ~~      Male    0     1     1  105     NA   0       .p181. -0.003 -0.003 NA
+182 182     Black ~~    Sample    0     1     1  106     NA   0       .p182.  0.079  0.079 NA
+183 183   AIndian ~~   AIndian    0     1     1  107     NA   0       .p183.  0.007  0.007 NA
+184 184   AIndian ~~     Asian    0     1     1  108     NA   0       .p184.  0.000  0.000 NA
+185 185   AIndian ~~      Male    0     1     1  109     NA   0       .p185. -0.001 -0.001 NA
+186 186   AIndian ~~    Sample    0     1     1  110     NA   0       .p186. -0.001 -0.001 NA
+187 187     Asian ~~     Asian    0     1     1  111     NA   0       .p187.  0.016  0.016 NA
+188 188     Asian ~~      Male    0     1     1  112     NA   0       .p188.  0.001  0.001 NA
+189 189     Asian ~~    Sample    0     1     1  113     NA   0       .p189. -0.004 -0.004 NA
+190 190      Male ~~      Male    0     1     1  114     NA   0       .p190.  0.250  0.250 NA
+191 191      Male ~~    Sample    0     1     1  115     NA   0       .p191. -0.002 -0.002 NA
+192 192    Sample ~~    Sample    0     1     1  116     NA   0       .p192.  0.191  0.191 NA
+193 193  NA_Age17 ~1              0     1     1  117     NA   0       .p193.  0.097  0.032 NA
+194 194  NA_Age18 ~1              0     1     1  118     NA   0       .p194.  0.101  0.040 NA
+195 195  NA_Age19 ~1              0     1     1  119     NA   0       .p195.  0.097  0.039 NA
+196 196  NA_Age20 ~1              0     1     1  120     NA   0       .p196.  0.092  0.038 NA
+197 197  NA_Age21 ~1              0     1     1  121     NA   0       .p197.  0.082  0.032 NA
+198 198  NA_Age22 ~1              0     1     1  122     NA   0       .p198.  0.074  0.027 NA
+199 199  NA_Age23 ~1              0     1     1  123     NA   0       .p199.  0.066  0.022 NA
+200 200  NA_Age24 ~1              0     1     1  124     NA   0       .p200.  0.057  0.017 NA
+201 201  NA_Age25 ~1              0     1     1  125     NA   0       .p201.  0.051  0.015 NA
+202 202  NA_Age26 ~1              0     1     1  126     NA   0       .p202.  0.044  0.011 NA
+203 203  NA_Age27 ~1              0     1     1  127     NA   0       .p203.  0.046  0.017 NA
+204 204  NA_Age28 ~1              0     1     1  128     NA   0       .p204.  0.038  0.012 NA
+205 205  NA_Age29 ~1              0     1     1  129     NA   0       .p205.  0.034  0.011 NA
+206 206  NA_Age30 ~1              0     1     1  130     NA   0       .p206.  0.033  0.014 NA
+207 207  NA_Age31 ~1              0     1     1  131     NA   0       .p207.  0.025  0.010 NA
+208 208  NA_Age32 ~1              0     1     1  132     NA   0       .p208.  0.024  0.012 NA
+209 209  NA_Age33 ~1              0     1     1  133     NA   0       .p209.  0.021  0.013 NA
+210 210  NA_Age34 ~1              0     1     1  134     NA   0       .p210.  0.015  0.011 NA
+211 211  NA_Age35 ~1              0     1     1  135     NA   0       .p211.  0.014  0.012 NA
+212 212 NMI_Age17 ~1              0     1     1  136     NA   0       .p212.  0.036 -0.080 NA
+213 213 NMI_Age18 ~1              0     1     1  137     NA   0       .p213.  0.079 -0.055 NA
+214 214 NMI_Age19 ~1              0     1     1  138     NA   0       .p214.  0.100 -0.051 NA
+215 215 NMI_Age20 ~1              0     1     1  139     NA   0       .p215.  0.121 -0.048 NA
+216 216 NMI_Age21 ~1              0     1     1  140     NA   0       .p216.  0.135 -0.051 NA
+217 217 NMI_Age22 ~1              0     1     1  141     NA   0       .p217.  0.176 -0.028 NA
+218 218 NMI_Age23 ~1              0     1     1  142     NA   0       .p218.  0.195 -0.026 NA
+219 219 NMI_Age24 ~1              0     1     1  143     NA   0       .p219.  0.210 -0.029 NA
+220 220 NMI_Age25 ~1              0     1     1  144     NA   0       .p220.  0.213 -0.043 NA
+221 221 NMI_Age26 ~1              0     1     1  145     NA   0       .p221.  0.228 -0.046 NA
+222 222 NMI_Age27 ~1              0     1     1  146     NA   0       .p222.  0.208 -0.083 NA
+223 223 NMI_Age28 ~1              0     1     1  147     NA   0       .p223.  0.203 -0.106 NA
+224 224 NMI_Age29 ~1              0     1     1  148     NA   0       .p224.  0.220 -0.106 NA
+225 225 NMI_Age30 ~1              0     1     1  149     NA   0       .p225.  0.214 -0.129 NA
+226 226 NMI_Age31 ~1              0     1     1  150     NA   0       .p226.  0.208 -0.152 NA
+227 227 NMI_Age32 ~1              0     1     1  151     NA   0       .p227.  0.184 -0.194 NA
+228 228 NMI_Age33 ~1              0     1     1  152     NA   0       .p228.  0.171 -0.225 NA
+229 229 NMI_Age34 ~1              0     1     1  153     NA   0       .p229.  0.146 -0.261 NA
+230 230 NMI_Age35 ~1              0     1     1  154     NA   0       .p230.  0.138 -0.284 NA
+231 231   MATIB16 ~1              0     1     1  155     NA   0       .p231.  0.010  0.010 NA
+232 232  Hispanic ~1              0     1     1  156     NA   0       .p232.  0.214  0.214 NA
+233 233     White ~1              0     1     1  157     NA   0       .p233.  0.577  0.577 NA
+234 234     Black ~1              0     1     1  158     NA   0       .p234.  0.276  0.276 NA
+235 235   AIndian ~1              0     1     1  159     NA   0       .p235.  0.007  0.007 NA
+236 236     Asian ~1              0     1     1  160     NA   0       .p236.  0.017  0.017 NA
+237 237      Male ~1              0     1     1  161     NA   0       .p237.  0.501  0.501 NA
+238 238    Sample ~1              0     1     1  162     NA   0       .p238.  1.257  1.257 NA
+239 239  Arrest_I ~1              0     1     1    0      0   0       .p239.  0.000  0.000  0
+240 240 Arrest_S1 ~1              0     1     1    0      0   0       .p240.  0.000  0.000  0
+241 241   Incar_I ~1              0     1     1    0      0   0       .p241.  0.000  0.000  0
+242 242  Incar_S1 ~1              0     1     1    0      0   0       .p242.  0.000  0.000  0
+$lambda
+          Arrs_I Arr_S1 Incr_I Inc_S1 MATIB1 Hispnc White Black AIndin Asian Male Sample
+NA_Age17       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age18       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age19       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age20       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age21       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age22       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age23       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age24       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age25       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age26       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age27       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age28       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age29       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age30       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age31       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age32       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age33       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age34       0      0      0      0      0      0     0     0      0     0    0      0
+NA_Age35       0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age17      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age18      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age19      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age20      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age21      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age22      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age23      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age24      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age25      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age26      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age27      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age28      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age29      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age30      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age31      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age32      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age33      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age34      0      0      0      0      0      0     0     0      0     0    0      0
+NMI_Age35      0      0      0      0      0      0     0     0      0     0    0      0
+MATIB16        0      0      0      0      0      0     0     0      0     0    0      0
+Hispanic       0      0      0      0      0      0     0     0      0     0    0      0
+White          0      0      0      0      0      0     0     0      0     0    0      0
+Black          0      0      0      0      0      0     0     0      0     0    0      0
+AIndian        0      0      0      0      0      0     0     0      0     0    0      0
+Asian          0      0      0      0      0      0     0     0      0     0    0      0
+Male           0      0      0      0      0      0     0     0      0     0    0      0
+Sample         0      0      0      0      0      0     0     0      0     0    0      0
+
+$theta
+          NA_A17 NA_A18 NA_A19 NA_A20 NA_A21 NA_A22 NA_A23 NA_A24 NA_A25 NA_A26 NA_A27 NA_A28 NA_A29 NA_A30 NA_A31 NA_A32
+NA_Age17  33                                                                                                             
+NA_Age18   0     34                                                                                                      
+NA_Age19   0      0     35                                                                                               
+NA_Age20   0      0      0     36                                                                                        
+NA_Age21   0      0      0      0     37                                                                                 
+NA_Age22   0      0      0      0      0     38                                                                          
+NA_Age23   0      0      0      0      0      0     39                                                                   
+NA_Age24   0      0      0      0      0      0      0     40                                                            
+NA_Age25   0      0      0      0      0      0      0      0     41                                                     
+NA_Age26   0      0      0      0      0      0      0      0      0     42                                              
+NA_Age27   0      0      0      0      0      0      0      0      0      0     43                                       
+NA_Age28   0      0      0      0      0      0      0      0      0      0      0     44                                
+NA_Age29   0      0      0      0      0      0      0      0      0      0      0      0     45                         
+NA_Age30   0      0      0      0      0      0      0      0      0      0      0      0      0     46                  
+NA_Age31   0      0      0      0      0      0      0      0      0      0      0      0      0      0     47           
+NA_Age32   0      0      0      0      0      0      0      0      0      0      0      0      0      0      0     48    
+NA_Age33   0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NA_Age34   0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NA_Age35   0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age17  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age18  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age19  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age20  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age21  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age22  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age23  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age24  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age25  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age26  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age27  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age28  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age29  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age30  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age31  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age32  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age33  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age34  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+NMI_Age35  0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+MATIB16    0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+Hispanic   0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+White      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+Black      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+AIndian    0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+Asian      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+Male       0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+Sample     0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0    
+          NA_A33 NA_A34 NA_A35 NMI_A17 NMI_A18 NMI_A19 NMI_A20 NMI_A21 NMI_A22 NMI_A23 NMI_A24 NMI_A25 NMI_A26 NMI_A27
+NA_Age17                                                                                                              
+NA_Age18                                                                                                              
+NA_Age19                                                                                                              
+NA_Age20                                                                                                              
+NA_Age21                                                                                                              
+NA_Age22                                                                                                              
+NA_Age23                                                                                                              
+NA_Age24                                                                                                              
+NA_Age25                                                                                                              
+NA_Age26                                                                                                              
+NA_Age27                                                                                                              
+NA_Age28                                                                                                              
+NA_Age29                                                                                                              
+NA_Age30                                                                                                              
+NA_Age31                                                                                                              
+NA_Age32                                                                                                              
+NA_Age33  49                                                                                                          
+NA_Age34   0     50                                                                                                   
+NA_Age35   0      0     51                                                                                            
+NMI_Age17  0      0      0     52                                                                                     
+NMI_Age18  0      0      0      0      53                                                                             
+NMI_Age19  0      0      0      0       0      54                                                                     
+NMI_Age20  0      0      0      0       0       0      55                                                             
+NMI_Age21  0      0      0      0       0       0       0      56                                                     
+NMI_Age22  0      0      0      0       0       0       0       0      57                                             
+NMI_Age23  0      0      0      0       0       0       0       0       0      58                                     
+NMI_Age24  0      0      0      0       0       0       0       0       0       0      59                             
+NMI_Age25  0      0      0      0       0       0       0       0       0       0       0      60                     
+NMI_Age26  0      0      0      0       0       0       0       0       0       0       0       0      61             
+NMI_Age27  0      0      0      0       0       0       0       0       0       0       0       0       0      62     
+NMI_Age28  0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+NMI_Age29  0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+NMI_Age30  0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+NMI_Age31  0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+NMI_Age32  0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+NMI_Age33  0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+NMI_Age34  0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+NMI_Age35  0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+MATIB16    0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+Hispanic   0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+White      0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+Black      0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+AIndian    0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+Asian      0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+Male       0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+Sample     0      0      0      0       0       0       0       0       0       0       0       0       0       0     
+          NMI_A28 NMI_A29 NMI_A30 NMI_A31 NMI_A32 NMI_A33 NMI_A34 NMI_A35 MATIB1 Hispnc White Black AIndin Asian Male Sample
+NA_Age17                                                                                                                    
+NA_Age18                                                                                                                    
+NA_Age19                                                                                                                    
+NA_Age20                                                                                                                    
+NA_Age21                                                                                                                    
+NA_Age22                                                                                                                    
+NA_Age23                                                                                                                    
+NA_Age24                                                                                                                    
+NA_Age25                                                                                                                    
+NA_Age26                                                                                                                    
+NA_Age27                                                                                                                    
+NA_Age28                                                                                                                    
+NA_Age29                                                                                                                    
+NA_Age30                                                                                                                    
+NA_Age31                                                                                                                    
+NA_Age32                                                                                                                    
+NA_Age33                                                                                                                    
+NA_Age34                                                                                                                    
+NA_Age35                                                                                                                    
+NMI_Age17                                                                                                                   
+NMI_Age18                                                                                                                   
+NMI_Age19                                                                                                                   
+NMI_Age20                                                                                                                   
+NMI_Age21                                                                                                                   
+NMI_Age22                                                                                                                   
+NMI_Age23                                                                                                                   
+NMI_Age24                                                                                                                   
+NMI_Age25                                                                                                                   
+NMI_Age26                                                                                                                   
+NMI_Age27                                                                                                                   
+NMI_Age28 63                                                                                                                
+NMI_Age29  0      64                                                                                                        
+NMI_Age30  0       0      65                                                                                                
+NMI_Age31  0       0       0      66                                                                                        
+NMI_Age32  0       0       0       0      67                                                                                
+NMI_Age33  0       0       0       0       0      68                                                                        
+NMI_Age34  0       0       0       0       0       0      69                                                                
+NMI_Age35  0       0       0       0       0       0       0      70                                                        
+MATIB16    0       0       0       0       0       0       0       0       0                                                
+Hispanic   0       0       0       0       0       0       0       0       0      0                                         
+White      0       0       0       0       0       0       0       0       0      0      0                                  
+Black      0       0       0       0       0       0       0       0       0      0      0     0                            
+AIndian    0       0       0       0       0       0       0       0       0      0      0     0     0                      
+Asian      0       0       0       0       0       0       0       0       0      0      0     0     0      0               
+Male       0       0       0       0       0       0       0       0       0      0      0     0     0      0     0         
+Sample     0       0       0       0       0       0       0       0       0      0      0     0     0      0     0    0    
+
+$psi
+          Arrs_I Arr_S1 Incr_I Inc_S1 MATIB1 Hispnc White Black AIndin Asian Male Sample
+Arrest_I   71                                                                           
+Arrest_S1  75     72                                                                    
+Incar_I    76     78     73                                                             
+Incar_S1   77     79     80     74                                                      
+MATIB16     0      0      0      0     81                                               
+Hispanic    0      0      0      0     82     89                                        
+White       0      0      0      0     83     90     96                                 
+Black       0      0      0      0     84     91     97   102                           
+AIndian     0      0      0      0     85     92     98   103   107                     
+Asian       0      0      0      0     86     93     99   104   108    111              
+Male        0      0      0      0     87     94    100   105   109    112   114        
+Sample      0      0      0      0     88     95    101   106   110    113   115  116   
+
+$beta
+          Arrs_I Arr_S1 Incr_I Inc_S1 MATIB1 Hispnc White Black AIndin Asian Male Sample
+Arrest_I       0      0      0      0      1      2     3     4      5     6    7      8
+Arrest_S1      0      0      0      0     17     18    19    20     21    22   23     24
+Incar_I        0      0      0      0      9     10    11    12     13    14   15     16
+Incar_S1       0      0      0      0     25     26    27    28     29    30   31     32
+MATIB16        0      0      0      0      0      0     0     0      0     0    0      0
+Hispanic       0      0      0      0      0      0     0     0      0     0    0      0
+White          0      0      0      0      0      0     0     0      0     0    0      0
+Black          0      0      0      0      0      0     0     0      0     0    0      0
+AIndian        0      0      0      0      0      0     0     0      0     0    0      0
+Asian          0      0      0      0      0      0     0     0      0     0    0      0
+Male           0      0      0      0      0      0     0     0      0     0    0      0
+Sample         0      0      0      0      0      0     0     0      0     0    0      0
+
+$nu
+          intrcp
+NA_Age17     117
+NA_Age18     118
+NA_Age19     119
+NA_Age20     120
+NA_Age21     121
+NA_Age22     122
+NA_Age23     123
+NA_Age24     124
+NA_Age25     125
+NA_Age26     126
+NA_Age27     127
+NA_Age28     128
+NA_Age29     129
+NA_Age30     130
+NA_Age31     131
+NA_Age32     132
+NA_Age33     133
+NA_Age34     134
+NA_Age35     135
+NMI_Age17    136
+NMI_Age18    137
+NMI_Age19    138
+NMI_Age20    139
+NMI_Age21    140
+NMI_Age22    141
+NMI_Age23    142
+NMI_Age24    143
+NMI_Age25    144
+NMI_Age26    145
+NMI_Age27    146
+NMI_Age28    147
+NMI_Age29    148
+NMI_Age30    149
+NMI_Age31    150
+NMI_Age32    151
+NMI_Age33    152
+NMI_Age34    153
+NMI_Age35    154
+MATIB16        0
+Hispanic       0
+White          0
+Black          0
+AIndian        0
+Asian          0
+Male           0
+Sample         0
+
+$alpha
+          intrcp
+Arrest_I       0
+Arrest_S1      0
+Incar_I        0
+Incar_S1       0
+MATIB16      155
+Hispanic     156
+White        157
+Black        158
+AIndian      159
+Asian        160
+Male         161
+Sample       162
+
+$type
+[1] "cor.bollen"
+
+$cov
+          NA_A17 NA_A18 NA_A19 NA_A20 NA_A21 NA_A22 NA_A23 NA_A24 NA_A25 NA_A26 NA_A27 NA_A28 NA_A29 NA_A30 NA_A31 NA_A32
+NA_Age17   0.000                                                                                                         
+NA_Age18   0.049  0.000                                                                                                  
+NA_Age19  -0.011  0.327  0.000                                                                                           
+NA_Age20  -0.020  0.066  0.100  0.000                                                                                    
+NA_Age21  -0.013  0.043  0.081  0.049  0.000                                                                             
+NA_Age22  -0.034  0.006  0.004  0.036  0.301  0.000                                                                      
+NA_Age23  -0.046 -0.044 -0.034 -0.015  0.051  0.095  0.000                                                               
+NA_Age24  -0.085  0.000 -0.033 -0.023 -0.053 -0.015  0.031  0.000                                                        
+NA_Age25  -0.054 -0.045 -0.020  0.032  0.022 -0.050 -0.026 -0.001  0.000                                                 
+NA_Age26  -0.084 -0.038 -0.070 -0.007  0.059 -0.002 -0.030 -0.034  0.103  0.000                                          
+NA_Age27  -0.056 -0.036 -0.019 -0.019  0.026  0.002 -0.021  0.042  0.050  0.055  0.000                                   
+NA_Age28  -0.025 -0.044 -0.028 -0.029  0.026  0.069  0.009 -0.009 -0.025 -0.028  0.063  0.000                            
+NA_Age29  -0.010 -0.027  0.010 -0.019 -0.045 -0.033 -0.022 -0.015 -0.010 -0.041 -0.030  0.156  0.000                     
+NA_Age30  -0.010  0.007 -0.018 -0.002  0.055 -0.001  0.003 -0.024  0.013  0.008  0.129  0.026  0.045  0.000              
+NA_Age31   0.022  0.014 -0.002 -0.006 -0.010  0.025 -0.007 -0.010 -0.062 -0.028 -0.006 -0.005 -0.084 -0.004  0.000       
+NA_Age32   0.010  0.044  0.038 -0.002  0.018  0.010 -0.024 -0.020 -0.045 -0.054  0.031 -0.056 -0.104 -0.063  0.161  0.000
+NA_Age33   0.067  0.083  0.031  0.015  0.012  0.013  0.003 -0.018 -0.015 -0.072 -0.055 -0.073 -0.161  0.105 -0.024  0.087
+NA_Age34   0.115  0.106  0.076  0.028  0.064  0.013 -0.009 -0.042 -0.046 -0.021  0.062 -0.068 -0.168  0.183 -0.183  0.055
+NA_Age35   0.099  0.117  0.129  0.017  0.076  0.069  0.010 -0.019 -0.023 -0.018  0.055 -0.109 -0.220 -0.075 -0.158  0.118
+NMI_Age17  0.044 -0.047 -0.054 -0.003 -0.030 -0.038 -0.025 -0.041 -0.035 -0.051 -0.040 -0.031 -0.027 -0.012 -0.009 -0.002
+NMI_Age18  0.085  0.068 -0.029  0.082 -0.040 -0.017 -0.026 -0.058  0.004 -0.049 -0.022 -0.034 -0.028 -0.011 -0.003 -0.004
+NMI_Age19  0.046  0.052  0.037  0.019 -0.060 -0.032 -0.004 -0.072 -0.034 -0.061 -0.026 -0.038 -0.028 -0.007 -0.001 -0.003
+NMI_Age20  0.030  0.034  0.090  0.013 -0.042 -0.038 -0.013 -0.041  0.024 -0.024 -0.019 -0.014 -0.008 -0.015 -0.015 -0.012
+NMI_Age21  0.029  0.017  0.059  0.016  0.030 -0.018 -0.012 -0.067  0.021 -0.020 -0.021 -0.010 -0.017 -0.003 -0.006 -0.014
+NMI_Age22  0.074  0.029  0.033  0.031  0.110  0.077 -0.004 -0.051  0.038  0.034 -0.018 -0.001 -0.022 -0.003 -0.008  0.021
+NMI_Age23  0.057  0.027  0.031  0.026  0.035  0.042  0.007 -0.054 -0.010 -0.020 -0.006 -0.023  0.009  0.013 -0.006  0.039
+NMI_Age24  0.050  0.022  0.018  0.025  0.022  0.045  0.046  0.002 -0.029 -0.011  0.013 -0.020  0.022  0.006  0.002  0.022
+NMI_Age25  0.031  0.015  0.005  0.009  0.018  0.023  0.010  0.074  0.032 -0.021  0.000 -0.029  0.013  0.000 -0.027 -0.005
+NMI_Age26  0.031  0.048  0.004  0.028  0.036  0.054  0.008  0.057  0.108  0.024 -0.012 -0.032  0.003 -0.006 -0.017  0.002
+NMI_Age27  0.014  0.012 -0.026  0.015  0.062  0.032  0.012  0.025  0.048  0.028 -0.014 -0.043 -0.028 -0.013 -0.028 -0.008
+NMI_Age28  0.031 -0.022 -0.014 -0.011  0.041 -0.034 -0.003  0.005  0.042  0.012  0.044  0.005 -0.052 -0.021 -0.031 -0.019
+NMI_Age29  0.014  0.011 -0.001 -0.009  0.024 -0.029 -0.014  0.022  0.015  0.029  0.027  0.048  0.065 -0.025 -0.030 -0.003
+NMI_Age30 -0.002  0.001  0.021 -0.001  0.020 -0.032 -0.010 -0.024  0.007  0.031  0.002  0.025  0.118  0.007 -0.034 -0.010
+NMI_Age31  0.015 -0.015  0.029 -0.008  0.058  0.014  0.011 -0.039  0.030  0.024  0.005  0.058  0.085  0.093  0.009 -0.028
+NMI_Age32 -0.012 -0.041  0.017 -0.016 -0.017 -0.048 -0.006 -0.068  0.010 -0.008  0.032  0.034  0.068  0.012  0.050  0.042
+NMI_Age33 -0.015 -0.050 -0.022 -0.024 -0.057 -0.067 -0.012 -0.082 -0.016 -0.014 -0.002 -0.018  0.014  0.007  0.055  0.070
+NMI_Age34 -0.005 -0.050 -0.037 -0.018 -0.060 -0.059 -0.014 -0.081 -0.016 -0.020 -0.010 -0.030 -0.015 -0.016  0.002  0.047
+NMI_Age35 -0.040 -0.022 -0.015  0.004 -0.057 -0.036  0.000 -0.049  0.013 -0.015 -0.003 -0.020  0.024 -0.016 -0.009  0.036
+MATIB16    0.029  0.014  0.021 -0.002 -0.005  0.002  0.000  0.008 -0.018 -0.026 -0.013 -0.008 -0.002 -0.018 -0.034  0.008
+Hispanic   0.008 -0.013 -0.006  0.007 -0.002 -0.001 -0.002  0.000 -0.008  0.017  0.002  0.003  0.000  0.015 -0.008 -0.021
+White      0.015 -0.001  0.017  0.004 -0.020  0.003 -0.018  0.004 -0.005 -0.006 -0.009 -0.021 -0.007 -0.012  0.020  0.014
+Black     -0.021  0.005 -0.007 -0.005  0.028  0.004  0.018 -0.003 -0.001 -0.007  0.006  0.018  0.006 -0.001 -0.009 -0.003
+AIndian   -0.013  0.000 -0.011  0.003 -0.007  0.009  0.005  0.013  0.013  0.020 -0.009 -0.010 -0.010  0.003 -0.005  0.003
+Asian      0.009 -0.002 -0.003 -0.003 -0.004  0.000 -0.001 -0.001  0.010 -0.005 -0.004 -0.004 -0.004  0.000 -0.001  0.003
+Male       0.011  0.015  0.020  0.018  0.012  0.012 -0.019 -0.013 -0.002 -0.016 -0.002 -0.017 -0.015  0.009 -0.012 -0.018
+Sample    -0.004  0.003 -0.011 -0.008  0.014  0.006  0.026 -0.014 -0.001 -0.003 -0.012  0.018  0.005  0.010 -0.006 -0.009
+          NA_A33 NA_A34 NA_A35 NMI_A17 NMI_A18 NMI_A19 NMI_A20 NMI_A21 NMI_A22 NMI_A23 NMI_A24 NMI_A25 NMI_A26 NMI_A27
+NA_Age17                                                                                                              
+NA_Age18                                                                                                              
+NA_Age19                                                                                                              
+NA_Age20                                                                                                              
+NA_Age21                                                                                                              
+NA_Age22                                                                                                              
+NA_Age23                                                                                                              
+NA_Age24                                                                                                              
+NA_Age25                                                                                                              
+NA_Age26                                                                                                              
+NA_Age27                                                                                                              
+NA_Age28                                                                                                              
+NA_Age29                                                                                                              
+NA_Age30                                                                                                              
+NA_Age31                                                                                                              
+NA_Age32                                                                                                              
+NA_Age33   0.000                                                                                                      
+NA_Age34   0.064  0.000                                                                                               
+NA_Age35   0.005  0.009  0.000                                                                                        
+NMI_Age17  0.008  0.027  0.053  0.000                                                                                 
+NMI_Age18  0.020  0.041  0.012 -0.053   0.000                                                                         
+NMI_Age19  0.005  0.032  0.021 -0.186   0.154   0.000                                                                 
+NMI_Age20  0.022  0.023  0.025 -0.170   0.027   0.307   0.000                                                         
+NMI_Age21 -0.001  0.022  0.017 -0.150   0.016   0.120   0.364   0.000                                                 
+NMI_Age22  0.007  0.043  0.072 -0.113   0.004   0.063   0.145   0.377   0.000                                         
+NMI_Age23  0.045  0.078  0.106 -0.101   0.003   0.071   0.087   0.206   0.462   0.000                                 
+NMI_Age24  0.044  0.034  0.080 -0.084  -0.010   0.048   0.042   0.111   0.281   0.507   0.000                         
+NMI_Age25 -0.017 -0.012  0.013 -0.118  -0.016   0.014   0.011   0.057   0.203   0.323   0.467   0.000                 
+NMI_Age26 -0.006 -0.009 -0.008 -0.106   0.006   0.013   0.015   0.038   0.143   0.208   0.270   0.469   0.000         
+NMI_Age27 -0.032 -0.016  0.002 -0.087  -0.002  -0.004  -0.015   0.013   0.083   0.146   0.201   0.288   0.438   0.000 
+NMI_Age28 -0.041 -0.017  0.023 -0.120  -0.026  -0.026   0.003  -0.002   0.037   0.064   0.088   0.132   0.196   0.344 
+NMI_Age29 -0.031  0.010  0.003 -0.151  -0.045  -0.044  -0.018  -0.047   0.001   0.036   0.040   0.075   0.108   0.170 
+NMI_Age30 -0.036 -0.006 -0.019 -0.130  -0.046  -0.059  -0.026  -0.065  -0.010   0.028   0.033   0.041   0.066   0.063 
+NMI_Age31 -0.039  0.000 -0.009 -0.098  -0.047  -0.049  -0.046  -0.060  -0.006   0.006  -0.026  -0.030   0.001   0.009 
+NMI_Age32 -0.046  0.000 -0.020 -0.088  -0.044  -0.045  -0.059  -0.085  -0.051  -0.043  -0.062  -0.098  -0.081  -0.098 
+NMI_Age33  0.018 -0.038 -0.029 -0.044  -0.030  -0.013  -0.053  -0.080  -0.076  -0.070  -0.048  -0.103  -0.086  -0.106 
+NMI_Age34  0.063 -0.007 -0.022 -0.047  -0.009  -0.007  -0.031  -0.070  -0.124  -0.137  -0.101  -0.139  -0.104  -0.126 
+NMI_Age35  0.023  0.028  0.015 -0.052   0.043   0.036  -0.037  -0.045  -0.122  -0.144  -0.132  -0.169  -0.134  -0.163 
+MATIB16   -0.008  0.025  0.021 -0.006  -0.010   0.013   0.022  -0.011   0.006   0.005   0.000  -0.001  -0.011  -0.015 
+Hispanic   0.013  0.001 -0.005 -0.002  -0.003  -0.003   0.010   0.009  -0.005  -0.004  -0.002   0.004   0.001  -0.001 
+White      0.000 -0.003 -0.006  0.032   0.015   0.010   0.005  -0.011  -0.027  -0.035  -0.042  -0.035  -0.027  -0.017 
+Black     -0.007  0.003  0.010 -0.033  -0.011  -0.008  -0.015   0.002   0.030   0.036   0.043   0.034   0.033   0.025 
+AIndian   -0.002  0.000  0.005  0.000  -0.002  -0.002   0.008  -0.004  -0.003  -0.003  -0.005   0.007   0.008   0.003 
+Asian      0.004 -0.001 -0.001 -0.001  -0.005   0.000   0.006   0.005   0.003   0.003   0.001   0.001   0.000   0.003 
+Male       0.006  0.023  0.039 -0.038  -0.015  -0.010   0.004   0.015   0.029   0.039   0.045   0.036   0.029   0.019 
+Sample     0.001  0.003 -0.001 -0.012   0.003  -0.005  -0.012   0.004   0.008   0.012   0.007   0.003   0.010   0.010 
+          NMI_A28 NMI_A29 NMI_A30 NMI_A31 NMI_A32 NMI_A33 NMI_A34 NMI_A35 MATIB1 Hispnc White  Black  AIndin Asian  Male  
+NA_Age17                                                                                                                  
+NA_Age18                                                                                                                  
+NA_Age19                                                                                                                  
+NA_Age20                                                                                                                  
+NA_Age21                                                                                                                  
+NA_Age22                                                                                                                  
+NA_Age23                                                                                                                  
+NA_Age24                                                                                                                  
+NA_Age25                                                                                                                  
+NA_Age26                                                                                                                  
+NA_Age27                                                                                                                  
+NA_Age28                                                                                                                  
+NA_Age29                                                                                                                  
+NA_Age30                                                                                                                  
+NA_Age31                                                                                                                  
+NA_Age32                                                                                                                  
+NA_Age33                                                                                                                  
+NA_Age34                                                                                                                  
+NA_Age35                                                                                                                  
+NMI_Age17                                                                                                                 
+NMI_Age18                                                                                                                 
+NMI_Age19                                                                                                                 
+NMI_Age20                                                                                                                 
+NMI_Age21                                                                                                                 
+NMI_Age22                                                                                                                 
+NMI_Age23                                                                                                                 
+NMI_Age24                                                                                                                 
+NMI_Age25                                                                                                                 
+NMI_Age26                                                                                                                 
+NMI_Age27                                                                                                                 
+NMI_Age28  0.000                                                                                                          
+NMI_Age29  0.322   0.000                                                                                                  
+NMI_Age30  0.101   0.270   0.000                                                                                          
+NMI_Age31  0.041   0.081   0.214   0.000                                                                                  
+NMI_Age32 -0.073  -0.046   0.023   0.152   0.000                                                                          
+NMI_Age33 -0.105  -0.119  -0.074  -0.031   0.149   0.000                                                                  
+NMI_Age34 -0.124  -0.163  -0.158  -0.139  -0.063   0.116   0.000                                                          
+NMI_Age35 -0.152  -0.180  -0.190  -0.167  -0.138  -0.041   0.177   0.000                                                  
+MATIB16   -0.008   0.005   0.011   0.017   0.003  -0.013  -0.001  -0.008   0.000                                          
+Hispanic  -0.004  -0.001   0.003  -0.006  -0.008   0.005  -0.002  -0.007   0.000  0.000                                   
+White     -0.013  -0.010   0.003   0.006   0.012   0.024   0.019   0.028   0.000  0.000  0.000                            
+Black      0.020   0.010  -0.003  -0.001  -0.010  -0.028  -0.024  -0.029   0.000  0.000  0.000  0.000                     
+AIndian    0.004   0.003  -0.004  -0.003  -0.002  -0.002   0.000   0.001   0.000  0.000  0.000  0.000  0.000              
+Asian      0.002  -0.005  -0.004  -0.002  -0.001   0.000   0.001   0.001   0.000  0.000  0.000  0.000  0.000  0.000       
+Male       0.008   0.010   0.000  -0.001  -0.017  -0.020  -0.033  -0.032   0.000  0.000  0.000  0.000  0.000  0.000  0.000
+Sample     0.007   0.008   0.001  -0.003  -0.003  -0.009  -0.013  -0.007   0.000  0.000  0.000  0.000  0.000  0.000  0.000
+          Sample
+NA_Age17        
+NA_Age18        
+NA_Age19        
+NA_Age20        
+NA_Age21        
+NA_Age22        
+NA_Age23        
+NA_Age24        
+NA_Age25        
+NA_Age26        
+NA_Age27        
+NA_Age28        
+NA_Age29        
+NA_Age30        
+NA_Age31        
+NA_Age32        
+NA_Age33        
+NA_Age34        
+NA_Age35        
+NMI_Age17       
+NMI_Age18       
+NMI_Age19       
+NMI_Age20       
+NMI_Age21       
+NMI_Age22       
+NMI_Age23       
+NMI_Age24       
+NMI_Age25       
+NMI_Age26       
+NMI_Age27       
+NMI_Age28       
+NMI_Age29       
+NMI_Age30       
+NMI_Age31       
+NMI_Age32       
+NMI_Age33       
+NMI_Age34       
+NMI_Age35       
+MATIB16         
+Hispanic        
+White           
+Black           
+AIndian         
+Asian           
+Male            
+Sample     0.000
+
+$mean
+ NA_Age17  NA_Age18  NA_Age19  NA_Age20  NA_Age21  NA_Age22  NA_Age23  NA_Age24  NA_Age25  NA_Age26  NA_Age27  NA_Age28 
+    0.000     0.000     0.000     0.000     0.000     0.000     0.000     0.000     0.000     0.000     0.000     0.000 
+ NA_Age29  NA_Age30  NA_Age31  NA_Age32  NA_Age33  NA_Age34  NA_Age35 NMI_Age17 NMI_Age18 NMI_Age19 NMI_Age20 NMI_Age21 
+    0.000     0.000     0.000     0.000     0.000     0.000     0.004     0.000     0.000     0.000     0.000     0.000 
+NMI_Age22 NMI_Age23 NMI_Age24 NMI_Age25 NMI_Age26 NMI_Age27 NMI_Age28 NMI_Age29 NMI_Age30 NMI_Age31 NMI_Age32 NMI_Age33 
+    0.000     0.000     0.000     0.000     0.000     0.000     0.000     0.000     0.000     0.000     0.000     0.000 
+NMI_Age34 NMI_Age35   MATIB16  Hispanic     White     Black   AIndian     Asian      Male    Sample 
+   -0.005    -0.007     0.000     0.000     0.000     0.000     0.000     0.000     0.000     0.000 
+
